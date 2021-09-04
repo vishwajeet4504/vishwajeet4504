@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Competitive Programming | Android Development**
 
-- 💬 Ask me about **C PROGRAMMING | C++ | JAVA | KOTLIN | HTML | CSS | JAVASCRIPT |**
+- 💬 Ask me about **C PROGRAMMING | C++ | JAVA | KOTLIN | HTML | CSS | JAVASCRIPT**
 
 - 📫 How to reach me **vishwajeettekale37@gmail.com**
 
