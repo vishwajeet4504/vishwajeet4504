@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vishwajeet Tekale</h1>
 <h3 align="center">Web Developer | Android Developer</h3>
 
-- 🌱 I’m currently learning **Competitive Programming | Android Development**
+- 🌱 I’m currently learning **Web Development | Android Development**
 
 - 💬 Ask me about **C PROGRAMMING | C++ | JAVA | KOTLIN | HTML | CSS | JAVASCRIPT**
 
