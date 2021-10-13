@@ -7,6 +7,8 @@
 
 - 📫 How to reach me **vishwajeettekale37@gmail.com**
 
+-  RESUME: **https://www.canva.com/design/DAEsrTZxQt8/Ia7LW81LU0nHi78SQy75wQ/view?utm_content=DAEsrTZxQt8&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton**
+ 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/vishwajeet4504" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="vishwajeet4504" height="30" width="40" /></a>
