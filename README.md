@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **vishwajeettekale37@gmail.com**
 
--  RESUME: **https://www.canva.com/design/DAEsrTZxQt8/Ia7LW81LU0nHi78SQy75wQ/view?utm_content=DAEsrTZxQt8&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton**
+-  RESUME: **(https://www.canva.com/design/DAEsrTZxQt8/Ia7LW81LU0nHi78SQy75wQ/view?utm_content=DAEsrTZxQt8&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)**
  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
