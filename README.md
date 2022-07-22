@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Web Development | Android Development**
 
-- 💬 Ask me about **C PROGRAMMING | C++ | JAVA | HTML | CSS | JAVASCRIPT| React JS| NODE JS**
+- 💬 Ask me about **C PROGRAMMING | C++ | JAVA | HTML | CSS | JAVASCRIPT| ReactJS| NODEJS**
 
 - 📫 How to reach me **vishwajeettekale37@gmail.com**
 
