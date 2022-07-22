@@ -1,13 +1,13 @@
 <h1 align="center">Hi, I'm Vishwajeet Tekale</h1>
 <h3 align="center">Full Stack Web Developer</h3>
 
-- 🌱 I’m currently learning **Web Development | Android Development**
+- I’m currently learning **Web Development | Android Development**
 
-- 💬 Ask me about **C PROGRAMMING | C++ | JAVA | HTML | CSS | JAVASCRIPT| ReactJS| NODEJS**
+- Ask me about **C PROGRAMMING | C++ | JAVA | HTML | CSS | JAVASCRIPT| ReactJS| NODEJS**
 
-- 📫 How to reach me **vishwajeettekale37@gmail.com**
+- How to reach me **vishwajeettekale37@gmail.com**
 
--  RESUME: https://www.canva.com/design/DAFEZ5Duynw/nthDmRPb4GZafCIw_caW-Q/view?utm_content=DAFEZ5Duynw&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
+- RESUME: https://www.canva.com/design/DAFEZ5Duynw/nthDmRPb4GZafCIw_caW-Q/view?utm_content=DAFEZ5Duynw&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
 - Portfolio Website: [https://vishwajeet4504.github.io/portfolio/](https://vishwajeet4504.github.io/portfolio/)
  
 <h3 align="left">Connect with me:</h3>
