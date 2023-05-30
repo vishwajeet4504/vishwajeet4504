@@ -8,7 +8,7 @@
 - How to reach me **vishwajeettekale37@gmail.com**
 
 - RESUME: https://www.canva.com/design/DAFEZ5Duynw/nthDmRPb4GZafCIw_caW-Q/view?utm_content=DAFEZ5Duynw&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
-- Portfolio Website: [https://vishwajeet4504.github.io/portfolio/](https://vishwajeet4504.github.io/portfolio/)
+- Portfolio Website: [https://vishwajeet4504.github.io/portfolio/](https://vishwajeet4504.github.io/portfolio)
  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
