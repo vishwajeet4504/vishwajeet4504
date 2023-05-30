@@ -8,8 +8,8 @@
 - How to reach me **vishwajeettekale37@gmail.com**
 
 - RESUME: https://www.canva.com/design/DAFEZ5Duynw/nthDmRPb4GZafCIw_caW-Q/view?utm_content=DAFEZ5Duynw&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
-- Portfolio Website: [https://vishwajeet4504.github.io/portfolio/](https://vishwajeet4504.github.io/portfolio)
- 
+- Portfolio Website: [Link](https://loquacious-baklava-785b1a.netlify.app/)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/vishwajeet4504" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="vishwajeet4504" height="30" width="40" /></a>
