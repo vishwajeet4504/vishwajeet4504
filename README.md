@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Vishwajeet Tekale</h1>
-<h3 align="center">Full Stack Web Developer</h3>
+<h3 align="center">Software Developer</h3>
 
-- I’m currently learning **Web Development | Android Development**
+- I’m Interested in **Software Development**
 
-- Ask me about **C PROGRAMMING | C++ | JAVA | HTML | CSS | JAVASCRIPT| ReactJS| NODEJS**
+- Technologies **Core Java | Spring Framework | Spring Boot | ReactJS | NodeJS | MySql | MongoDB**
 
 - How to reach me **vishwajeettekale37@gmail.com**
 
