@@ -3,9 +3,9 @@
 
 - I’m Interested in **Software Development**
 
-- Technologies **Core Java | Spring Framework | Spring Boot | ReactJS | NodeJS | MySql | MongoDB**
+- Technologies **Java | Spring Framework | Spring Boot | AWS | ReactJS | NodeJS | MySql | MongoDB**
 
-- How to reach me **vishwajeettekale37@gmail.com**
+- How to reach me **vishwajeet@vishwajeettekale.com**
 
 - RESUME: https://www.canva.com/design/DAFEZ5Duynw/nthDmRPb4GZafCIw_caW-Q/view?utm_content=DAFEZ5Duynw&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
 - Portfolio Website: [Link](https://loquacious-baklava-785b1a.netlify.app/)
